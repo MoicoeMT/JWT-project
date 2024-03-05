@@ -1,3 +1,23 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+#Card-home{
+    background-color: rgba(197, 182, 182, 0.792);
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+   
+}
+#Card-home1{
+    width: 50%;
+}
+
+
+#register-right{
+    background-color: rgba(19, 18, 18, 0.904);
+    color: white;
+    height: 100vh;
+}
+
+#register-left{
+    background-color: rgba(197, 182, 182, 0.792);
+
+    height: 100vh;
+   
+}
